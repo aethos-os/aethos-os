@@ -54,6 +54,9 @@ See CONTRIBUTING.md for details.
 
 Leibniz · aethos-os.org
 
+## Community
+Discord: discord.gg/uUK3NZyE
+
 ---
 
 *Licensed under GPL v3*
